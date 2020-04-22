@@ -49,7 +49,7 @@ weight: 30
 <br />
 
 * ### [Two Post-Quantum Signature Use-cases: Non-issues, Challenges and Potential Solutions](https://eprint.iacr.org/2019/1276.pdf)
-    #### **D. Sikeridis**, and P. Kampanakis
+    #### P. Kampanakis, and **D. Sikeridis**
     #### in **ETSI/IQC Quantum Safe Cryptography Workshop 2019**, Seattle WA, Nov. 2019
 <br />
 

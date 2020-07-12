@@ -19,8 +19,8 @@ Diploma Thesis: [Arm Movement Recognition and Monitoring using Bluetooth Low Ene
 ## Research Interests
 
 * Internet of Things (IoT), Crowd-assisted Applications
+* Network Protocols and Security
 * Machine Learning for Smart Infrastructures and Cyber-Physical Systems
-* Network Protocols and Distributed Systems
 * Resource Allocation and Distributed Optimization in Wireless Networks
 * Wearable Sensor Networks, Sensor Fusion for IMUs
 
